@@ -14,7 +14,7 @@ Before you begin, ensure you have the following installed:
 
 4. Start the server\
 `npm start`\
-The server should start on the port specified in the .env file (default is 7000).
+The server should start on the port 3000.
 
 **Database**\
 The project is already set up with a link to the MongoDB database, so you don't need to worry about database connectivity. You can start using the database right away without needing to import the sample data manually.
